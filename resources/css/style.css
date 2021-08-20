@@ -1,0 +1,30 @@
+Html{
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+
+}
+body{
+    background-color: black;
+
+}
+
+h1{
+    font-size: 35px;
+}
+div h1{
+    font-size: 30px;
+}
+h2{
+    color: rgb(216, 207, 207);
+    font-size: 20px;
+}
+p{
+    color: rgb(41, 228, 166);
+    font-size: 16px;
+}
+img{
+    display: inline;
+}
+
